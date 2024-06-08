@@ -7,8 +7,8 @@ Your first **open-source** contribution could be to this repository. There are n
 
 ## Contribution Rules
 
--  If the technology/skill could benefit from a hard resource, such as a PDF or a book, please create a folder, if not already there, and place it inside the folder.
--  Otherwise, just create a tech-name.md in the root, and add an explaination of how do you think people will benefit learning from it. Add any relevant links inside the .md file.
+-  If the technology/skill could benefit from a hard resource, such as a PDF or a book, create a folder, if not already there, and place it inside the folder.
+-  Otherwise, just create a tech-name.md in the root, and add an explaination of how you think people will benefit learning from it. Add any relevant links inside the .md file.
 
 ## Miscellanous Tech
 
