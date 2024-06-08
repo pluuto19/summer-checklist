@@ -3,7 +3,7 @@
 This repository serves as a comprehensive list of skills and resources one can use to improve themselves.
 While primarily for junior years (soon to be seniors) who couldn't land an internship during summer 2024, so that they don't stay as behind, anyone can benefit from it.
 This repository can always improve.
-Your first **open-source** contribution could be to this repository. There are no rules.
+Your first **open-source** contribution could be to this repository. There are no rules as to where your first contribution should be.
 
 ## Contribution Rules
 
