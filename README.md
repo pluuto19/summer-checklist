@@ -17,3 +17,10 @@ Your first **open-source** contribution could be to this repository. There are n
 -  Maybe learn a NoSQL database, such a Mongo, Redis, Couch, Cassandra etc. Understandably, the use cases for the latter 3 are limited, atleast in the typical project domain, so learning them fully may not be the best pah. Instead, think of a project and how you can utilize the databases, and only learn it for that project.
 -  Build a portfolio website if you already dont have one. You could choose from prebuilt templates or create your own. Getting creative with it is definitely better. You could try building a 3D interactive site using three.js. The idea is to get yourself your own platform to market yourself however you like.
 -  If you're interested in cloud computing, you might also be interested devops.
+
+## Contributions Needed
+
+-  Project ideas
+-  AI/ML resources
+-  Portfolio website resources
+-  Anything else
