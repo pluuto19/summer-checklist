@@ -22,5 +22,6 @@ Your first **open-source** contribution could be to this repository. There are n
 
 -  Project ideas
 -  AI/ML resources
+-  Devops resources
 -  Portfolio website resources
 -  Anything else
